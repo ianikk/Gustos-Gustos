@@ -1,0 +1,40 @@
+.principal{
+    background-image: url("img/background3.jpg");
+    font-family: 'Cinzel Decorative', cursive;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+    }
+.meniu{
+    font-family: 'Cinzel Decorative', cursive, "Baskerville Old Face";
+    background-color: rgba(175 178 9 1);
+    background-size:100% ;
+    width: 100%;
+    height: 60px;
+    text-align: center;
+}
+ul{
+    list-style: none;
+    margin: 0px;
+    padding-left: 0;
+}
+
+.p{
+    width: 18px;
+
+}
+ul{
+    color: #ff0008;
+}
+.mancare-calda{
+    background-color: #649a7e;
+}
+.despre{
+    color: #b3f121;}
+.despre-noi {
+    background-color: #fff74c;
+}
+.foot{
+    color: red;
+    text-align: center;
+}
